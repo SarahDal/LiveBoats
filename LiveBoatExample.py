@@ -19,7 +19,7 @@ def get_data():
     headers = ""
     
     params = {
-        "username":"AH_2575_802FBFB2",
+        "username":"USERNAME",
         "format":"1",
         "output":"json",
         "format":"1",
